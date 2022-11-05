@@ -1,0 +1,30 @@
+footer {
+  margin: 1px;
+  float: left;
+  padding: 10px;
+  border: none;
+}
+
+footer {
+  border-radius: 5px;
+  width: 1450px;
+  background-color: rgb(211, 226, 245);
+}
+
+footer p {
+  padding: 10px;
+  display: inline;
+}
+
+footer .foot2 {
+  padding: 10px;
+  margin-left: 100px;
+}
+
+footer img {
+  float: right;
+  padding: 10px;
+  border-radius: 50%;
+}
+
+/*# sourceMappingURL=footer.css.map */
